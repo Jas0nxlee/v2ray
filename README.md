@@ -12,3 +12,9 @@
 
 ## 更多 V2Ray 教程文章
 https://github.com/233boy/v2ray/wiki
+
+
+测速
+wget https://raw.githubusercontent.com/oooldking/script/master/superspeed.sh
+chmod +x superspeed.sh
+./superspeed.sh
